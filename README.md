@@ -68,7 +68,7 @@ My goal is to write code that feels light to maintain and powerful to run.
 
 ---
 
-### GitHub Stats
+### 〽️ GitHub Stats
 
 <p align="center">
   <img width="46.5%" src="https://nirzak-streak-stats.vercel.app/?user=anttonio-dent&theme=dracula&hide_border=true" width="520px" alt="streak graph"  />
