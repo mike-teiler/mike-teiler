@@ -10,12 +10,12 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hey, I'm <span style="color:#2dd4bf;">AntTonio Dent</span></h1>
-<h3 align="center">Full-Stack Developer | Automation Builder | Cloud Engineer</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#2dd4bf;">AntTonio Dent</span></h1>
+<h3 align="center">✨ Full-Stack Developer | Automation Builder | Cloud Engineer ✨</h3>
 
 ---
 
-### About Me
+### 🌟 About Me
 
 I’m a full-stack developer passionate about creating fast, scalable, and reliable systems.  
 I focus on connecting backends, frontends, and automation to make complex tasks simple and efficient.  
@@ -23,25 +23,25 @@ My goal is to write code that feels light to maintain and powerful to run.
 
 ---
 
-### What I Do
+### ⚡ What I Do
 
-- **Backend & Cloud:**  
+- **☁️ Backend & Cloud:**  
   Build efficient APIs and backend systems using Go and Node.js.  
   Deploy with AWS, Docker, and Supabase for performance and scalability.  
 
-- **Frontend Development:**  
+- **💻 Frontend Development:**  
   Develop fast, responsive, and user-friendly applications using React and Next.js.  
 
-- **Automation & Integration:**  
+- **💪 Automation & Integration:**  
   Create workflow automations with n8n and Airflow.  
   Connect APIs to save time, reduce friction, and make systems talk to each other.  
 
-- **E-Commerce & CMS:**  
+- **🎁 E-Commerce & CMS:**  
   Customize Shopify and WordPress for clean, conversion-focused storefronts.
 
 ---
 
-### Tech Stack
+### 💥 Tech Stack
 
 <div align="center">
 
