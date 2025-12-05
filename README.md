@@ -10,7 +10,7 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">👋 Hey, I'm <span style="color:#2dd4bf;">AntTonio Dent</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#2dd4bf;">Mike Teiler</span></h1>
 <h3 align="center">✨ Full-Stack Developer | Automation Builder | Cloud Engineer ✨</h3>
 
 ---
@@ -43,18 +43,6 @@ My goal is to write code that feels light to maintain and powerful to run.
 
 ### 💥 Tech Stack
 
-<div align="center">
-
-| Category | Tools |
-|-----------|-------|
-| **Languages & Frameworks** | Go · Node.js · React · Next.js |
-| **Automation & Workflows** | n8n · Apache Airflow · Zapier |
-| **Cloud & Infrastructure** | AWS · Docker · Supabase |
-| **E-Commerce & CMS** | Shopify · WordPress |
-| **Other Tools** | REST APIs · Git · FFmpeg |
-
-</div>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" height="28" />
@@ -64,20 +52,6 @@ My goal is to write code that feels light to maintain and powerful to run.
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/n8n-EA4C89?logo=n8n&logoColor=white" height="28" />
-</p>
-
----
-
-### 〽️ GitHub Stats
-
-<p align="center">
-  <img width="46.5%" src="https://nirzak-streak-stats.vercel.app/?user=anttonio-dent&theme=dracula&hide_border=true" width="520px" alt="streak graph"  />
-  <img width="51.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=anttonio-dent&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=282A36" width="520px" alt="activity-graph graph" />
-</p>
-
-<p align="center">
-  <img width=57.5%" src="https://github-readme-stats.vercel.app/api?username=anttonio-dent&show_icons=true&theme=dracula&hide_border=true&order=1%20commits=true&count_private=true&number_format=long" width="520px" alt="stats graph" />
-  <img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anttonio-dent&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=dracula&hide_border=true&order=2" width="520px" alt="languages graph" />
 </p>
 
 ---
